@@ -1,0 +1,4 @@
+--Procedimiento para agregar un canal en discord--
+1. Debemos descargar y crear una cuenta en discord para esto necesitamos una cuenta de correo 
+2. Necesitamos contar con el link de la invitacion al grupo y abrirlo en el navegador ya con la cuenta iniciada en la aplicaciòn 
+3. Posteriormente se abrira la invitacion y tendremos que aceptarla para que estemos dentro!.

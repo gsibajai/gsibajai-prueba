@@ -1,0 +1,5 @@
+--Proceso para hacer una cuenta en Dockerhub--
+1. Ingresamos a la pagina hub.docker.com
+2. Al ingresar iremos a la parte superior derecha y daremos clic al boton de register.
+3. Llenaremos los campos de el nombre de usuario, email y contraseña con los datos correspondientes adeas de marcar la casilla de que estamos de acuerdo con los terminos para dar paso al captcha.
+4. Posteriormente daremos clic al boton de sign up y nos mandara al apartado de iniciar sesion, por lo cual iniciaremos sesion con los datos que anteriormente utilizamos y tendremos nuestra cuenta nueva. 
