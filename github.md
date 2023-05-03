@@ -5,10 +5,10 @@
 1. En la página nos solicitará el correo, crear una **contraseña** y un nombre de usuario, al finalizar daremos en caso de querer noticias "y" y en caso contrario "n", se verificará la cuenta y nos dejarà entrar.  
  <img src="https://norvicsoftware.com/wp-content/uploads/2022/01/crear-nueva-cuenta-en-github.png" width="100%" /> 
  
-## Verificaciòn 2 pasos
+## Verificación 2 pasos (2FA)
 1. Para la verficación de 2 pasos tendremos que descargar la aplicación de *google authenticator* en nuestro celular entrando a la app nos dirigiremos al apartado de nuestra foto de perfil del lado superior derecho en el cual en el menú desplegable elegiremos settings.
-1. Al redirigirnos encontraremos del lado izquierdo un apartado llamado Password and authentication elegiremos esa opción y en la parte central aparecera un boton verde para autorizar la seguridad al presionarlo nos darà un codigo qr el cual con la apliacion escanearemos.
-1. Habiendo escaneado el codigo en la pantalla del celular tendremos un código de numeros el cual nos solicitará en la pantalla del pc al introducirlo correctamente tendremos configurado el apartado.
+1. Al redirigirnos encontraremos del lado izquierdo un apartado llamado Password and authentication elegiremos esa opción y en la parte central aparecerá un botón verde para autorizar la seguridad al presionarlo nos dará un código qr el cual con la apliación escanearemos.
+1. Habiendo escaneado el codigo en la pantalla del celular tendremos un código de números el cual nos solicitará en la pantalla del pc al introducirlo correctamente tendremos configurado el apartado.
  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWBGyhpYkm1vduvEfnmwy9MXoy7dUl9wBFyKatDRJuJNyOFhU2it7E-0K4K4mJrjN2_Byu6cHvEYOIJ9UB6p5gMfjPo7c3TEwj7Av1N621Ai57zPqGE5r8OcP4ir2lQQpdRlLTON_PuZw_SCy5aTWuI3ufO8vTSE4UQa7q570azTrOjzfPoZ-tW0havQ/s916/Screenshot%202023-04-24%20at%206.45.43%20PM.png" width="100%" /> 
 
  ## Generar un token de seguridad 
