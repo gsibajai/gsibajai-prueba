@@ -2,7 +2,7 @@
  
 ## Realizar cuenta
 1. Para realizar el procedimiento necesitamos una **cuenta de correo**, abrimos el navegador y buscamos la página de *github.com* en la cual en la parte superior derecha tiene un botón que dice **sign up** en el cual nos registraremos. 
-1. En la página nos solicitará el correo, crear una **contraseña** y un nombre de usuario, al finalizar daremos en caso de querer noticias "y" y en caso contrario "n", se verificará la cuenta y nos dejarà entrar,  
+1. En la página nos solicitará el correo, crear una **contraseña** y un nombre de usuario, al finalizar daremos en caso de querer noticias "y" y en caso contrario "n", se verificará la cuenta y nos dejarà entrar.  
  <img src="https://norvicsoftware.com/wp-content/uploads/2022/01/crear-nueva-cuenta-en-github.png" width="100%" /> 
  
 ## Verificaciòn 2 pasos
