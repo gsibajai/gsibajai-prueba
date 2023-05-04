@@ -6,18 +6,18 @@
  <img src="https://norvicsoftware.com/wp-content/uploads/2022/01/crear-nueva-cuenta-en-github.png" width="100%" /> 
  
 ## Verificación 2 pasos (2FA)
-1. Para la verficación de 2 pasos tendremos que descargar la aplicación de *google authenticator* en nuestro celular entrando a la app nos dirigiremos al apartado de nuestra foto de perfil del lado superior derecho en el cual en el menú desplegable elegiremos settings.
-1. Al redirigirnos encontraremos del lado izquierdo un apartado llamado Password and authentication elegiremos esa opción y en la parte central aparecerá un botón verde para autorizar la seguridad al presionarlo nos dará un código qr el cual con la apliación escanearemos.
+1. Para la verficación de 2 pasos tendremos que descargar la aplicación de *google authenticator* en nuestro celular entrando a la app nos dirigiremos al apartado de nuestra foto de perfil del lado superior derecho en el cual en el menú desplegable elegiremos **settings**.
+1. Al redirigirnos encontraremos del lado izquierdo un apartado llamado **Password and authentication** elegiremos esa opción y en la parte central aparecerá un botón verde para autorizar la seguridad al presionarlo nos dará un código qr el cual con la apliación escanearemos.
 1. Habiendo escaneado el codigo en la pantalla del celular tendremos un código de números el cual nos solicitará en la pantalla del pc al introducirlo correctamente tendremos configurado el apartado.
  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWBGyhpYkm1vduvEfnmwy9MXoy7dUl9wBFyKatDRJuJNyOFhU2it7E-0K4K4mJrjN2_Byu6cHvEYOIJ9UB6p5gMfjPo7c3TEwj7Av1N621Ai57zPqGE5r8OcP4ir2lQQpdRlLTON_PuZw_SCy5aTWuI3ufO8vTSE4UQa7q570azTrOjzfPoZ-tW0havQ/s916/Screenshot%202023-04-24%20at%206.45.43%20PM.png" width="100%" /> 
 
  ## Generar un token de seguridad 
-1. Para generar el token del lado derecho superior iremos al icono del perfil y elegiremos la opción de settings. 
-1. Posteriormente al lado izquierdo en la parte de opciones iremos a la última llamada developer settings, en la cual al redirigirnos del lado izquierdo tendremos tres opciones, daremos en la de personal access tokens se desplegará un pequeño menú en el cual elegiremos tokens classic.
-1. En el lado izquierdo de la pantalla nos aparecerá un botón llamado generate new token y en las opciones desplegadas elegiremos de nueva cuenta classic para así después de introducir la verificación de google nos dará acceso a la configuración del token en la cual simplemente elegiremos la fecha de caducidad del mismo y generamso correctamente este apartado.
+1. Para generar el token del lado derecho superior iremos al icono del perfil y elegiremos la opción de **settings**. 
+1. Posteriormente al lado izquierdo en la parte de opciones iremos a la última llamada **developer settings**, en la cual al redirigirnos del lado izquierdo tendremos tres opciones, daremos en la de **personal access tokens** se desplegará un pequeño menú en el cual elegiremos **tokens classic**.
+1. En el lado izquierdo de la pantalla nos aparecerá un botón llamado **generate new token** y en las opciones desplegadas elegiremos de nueva cuenta **classic** para así después de introducir la verificación de google nos dará acceso a la configuración del token en la cual simplemente elegiremos la fecha de caducidad del mismo y generamos correctamente este apartado.
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--DfcoPzP0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yaxm8bb6rxo55yt4frm1.png" width="100%" /> 
 
 
  
  ## NOTA 
-  > Es importante que guardes el token al momento de que aparezca en pantalla ya que una vez que se refresque la pantalla o le demos en continuar se borrara y ya no podremos verlo de nuevo.
+  > Es importante que guardes el token al momento de que aparezca en pantalla ya que una vez que se refresque la pantalla o le demos en continuar se **borrará y ya no podremos verlo de nuevo**.
