@@ -13,7 +13,7 @@
 
  ## Generar un token de seguridad 
 1. Para generar el token del lado derecho superior iremos al icono del perfil y elegiremos la opción de settings. 
-1. Posteriormente al lado izquierdo en la parte de opciones iremos a la ultima llamada developer settings, en la cual al redirigirnos del lado izquierdo tedremos tres opciones, daremos en la de personal access tokens se desplegará un pequeño menú en el cual elegiremos tokens classic.
+1. Posteriormente al lado izquierdo en la parte de opciones iremos a la última llamada developer settings, en la cual al redirigirnos del lado izquierdo tendremos tres opciones, daremos en la de personal access tokens se desplegará un pequeño menú en el cual elegiremos tokens classic.
 1. En el lado izquierdo de la pantalla nos aparecerá un botón llamado generate new token y en las opciones desplegadas elegiremos de nueva cuenta classic para así después de introducir la verificación de google nos dará acceso a la configuración del token en la cual simplemente elegiremos la fecha de caducidad del mismo y generamso correctamente este apartado.
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--DfcoPzP0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yaxm8bb6rxo55yt4frm1.png" width="100%" /> 
 
